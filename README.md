@@ -1,2 +1,2 @@
-# Naku
-about Naku
+# about Naku
+- ✨ it's Naku
