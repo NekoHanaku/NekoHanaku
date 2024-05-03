@@ -1,1 +1,2 @@
 - ✨ it's Naku
+- 💫 interested in python
