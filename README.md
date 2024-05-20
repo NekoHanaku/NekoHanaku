@@ -1,4 +1,4 @@
-- ✨ it's Naku ![icon-verified](https://img.icons8.com/color/20/verified-account--v1.png)
+- ✨ it's Naku ![icon-verified](https://img.icons8.com/material-rounded/20/7950F2/approval.png)
 - 💫 interested in python
 - 🐱 new in php
 - learning git
